@@ -11,6 +11,17 @@ console.log("Welcome to JavaScript!");
 console.log("My name is Katerina");
 
 
+let luckyNumber;
 
+
+
+luckyNumber = 13;
+
+
+//DECLARE + ASSIGN in one statement
+let worstNumber = 6;
+
+// you can "PASS IN a VARIABLE into a FUNCTION
+console.log(luckyNumber);
 
 
